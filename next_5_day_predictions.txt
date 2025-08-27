@@ -1,0 +1,25 @@
+Todays date: 2025-08-26
+
+Next 5 Business-Day Predictions
+========================================
+
+Date: 2025-08-27
+  Linear Regression Close Price Prediction: 228.96
+  LSTM Close Price Prediction: 215.68
+
+Date: 2025-08-28
+  Linear Regression Close Price Prediction: 228.75
+  LSTM Close Price Prediction: 213.72
+
+Date: 2025-08-29
+  Linear Regression Close Price Prediction: 228.59
+  LSTM Close Price Prediction: 211.30
+
+Date: 2025-09-02
+  Linear Regression Close Price Prediction: 228.44
+  LSTM Close Price Prediction: 208.71
+
+Date: 2025-09-03
+  Linear Regression Close Price Prediction: 228.30
+  LSTM Close Price Prediction: 206.06
+
